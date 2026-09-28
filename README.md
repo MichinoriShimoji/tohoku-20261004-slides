@@ -1,4 +1,4 @@
-# wordhood-slides
+# tohoku-20261004-slides
 
 Public slides for:
 
